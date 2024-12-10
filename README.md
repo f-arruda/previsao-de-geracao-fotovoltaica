@@ -4,9 +4,10 @@ Este repositório contém os resultados do projeto desenvolvido durante o Mestra
 ## Descrição do Projeto
 Foi implementado um modelo Encoder-Decoder LSTM para prever a geração fotovoltaica em horizontes de 1, 2 e 3 horas no futuro. Os dados utilizados para o treinamento foram coletados de um gerador fotovoltaico em operação no Instituto de Energia e Meio Ambiente da USP (IEE/USP), localizado na Região Metropolitana de São Paulo. Após o treinamento, o modelo foi adaptado para outras regiões do Brasil utilizando a metodologia de Transfer Learning.
 
-##Conteúdo do Repositório
+## Conteúdo do Repositório
 Este repositório inclui:
 1. **Dados**
+   - Conjuntos de dados utilizados para o treinamento dos modelos e para a aplicação de _Transfer Learning_.
 2. **Scripts**
 3. **Modelos Treinados**
 4. **Publicações**
